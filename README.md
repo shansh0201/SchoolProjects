@@ -1,2 +1,2 @@
 # SchoolProjects
-projects done in master programme
+DS and/or ML projects done during master programme
