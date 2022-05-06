@@ -4,6 +4,8 @@ To reproduce "Deep Convolutional Dictionary Learning" algorithm for image denois
 ## Approach
 "Deep Convolutional Dictionary Learning" algorithm
 
+Improvements: Adding a 3x3 median filter followed by a 3x3 Gaussian blurring filter in pre-processing stage.
+
 ## Results
 Train dataset: WED
 
